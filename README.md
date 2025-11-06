@@ -67,12 +67,6 @@ All models were evaluated using key metrics:
 | Linear SVC (tuned) | Fine-tuned SVM variant | 0.857 |
 | DistilBERT (fine-tuned) | Transformer-based deep learning model | 0.743 |
 
----
-
-### 📊 Model Comparison (Test F1)
-![Model Comparison](4b124712-7b7d-4516-a846-19c912b90a0e.png)
-
-*(Visualization comparing F1 scores of different models)*
 
 ---
 
